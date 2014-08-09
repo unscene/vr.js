@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "main": "lib",
   "scripts": {
-    "preinstall":"git submodule init; git submodule update"
+    "preinstall":""
   },
   "license": "BSD",
   "dependencies": {
