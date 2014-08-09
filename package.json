@@ -4,7 +4,7 @@
   "main": "lib",
   "scripts": {
     "preinstall":"git submodule init; git submodule update",
-    "install":"make-gyp.bat;"
+    "install":"./make-gyp;"
   },
   "license": "BSD",
   "dependencies": {
